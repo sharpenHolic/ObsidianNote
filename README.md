@@ -1,0 +1,2 @@
+# ObsidianNote
+Note for myself
